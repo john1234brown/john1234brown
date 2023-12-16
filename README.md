@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on decentralized applications / api services
 - 📫 How to reach me
  
- : john1234brown23@gmail.com
- : discord john1234brown
- : I have signal messaging app as well but you will have to contact me on discord first and I'll give that out there.
+ - john1234brown23@gmail.com
+ - discord john1234brown
+ - I have signal messaging app as well but you will have to contact me on discord first and I'll give that out there.
 
 <!---
 john1234brown/john1234brown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
